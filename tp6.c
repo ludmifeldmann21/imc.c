@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define PI 3.141592
+//link de repositorio: https://github.com/ludmifeldmann21/imc.c/blob/main/TP3.c
 float calcularAreaRectangulo(float longitud, float altura);
 float calcularPerimetroRectangulo(float longitud, float altura);
 float calcularAreaCirculo(float radio);
