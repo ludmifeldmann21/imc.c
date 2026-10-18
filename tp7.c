@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h> 
+//Repositorio: https://github.com/ludmifeldmann21/imc.c/blob/main/tp7.c
 int main() {
     int *codigos;
     float *precios;
